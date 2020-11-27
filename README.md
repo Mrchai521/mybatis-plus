@@ -6,7 +6,7 @@ Mybatis-Plus（MP）在 MyBatis 的基础上只做增强不做改变，简化开
 #### 项目地址
 文章可能描述的不清楚，或者你想看下代码，可以clone仓库
 
-[immoc-mybatis-plus](https://github.com/hezihaog/immoc-mybatis-plus)
+[mybatis-plus](https://github.com/Mrchai521)
 #### 前置配置
 <hr style=" border:solid; width:100px; height:1px;" color=#000000 size=1">
 
